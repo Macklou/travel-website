@@ -109,7 +109,7 @@ nav .menu.active .bar {
 }
 
 .home {
-  background-image: url("./images/travel.jpg");
+  background-image: url("travel.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
